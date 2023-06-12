@@ -10,7 +10,7 @@ The goal of this project is to interface with the relevant financial data feed a
 ### Prerequisites
 Before running the project, ensure that the following prerequisites are met:
 
-Python (version XYZ)
+Python (version 3.0)
 
 JPMorgan Chase's Perspective library
 
